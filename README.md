@@ -1,1 +1,10 @@
-# 135dewidewi-website
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dewi's Enterprise</title>
+</head>
+<body>
+  <h1>Selamat datang di Dewi's Enterprise!</h1>
+  <p>Kami adalah usaha yang bergerak di bidang kreatif dan digital.</p>
+</body>
+</html>
